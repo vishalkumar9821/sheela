@@ -69,11 +69,9 @@ input[type=number]::-webkit-outer-spin-button {
 					
 					
 					<div class="xs-btn-wraper">
-<!--
 						<a href="contact.php" class="btn btn-outline-primary">
 							join us now
 						</a>
--->
 						<a href="#ex1" rel="modal:open"  class="btn btn-outline-primary">
 							<span class="badge"><i class="fa fa-heart"></i></span> Donate Now
 						</a>
@@ -264,6 +262,15 @@ subject so that students can get exposure from all subjects.</p>
 		</div><!-- .row end -->
 	</div><!-- .container end -->
 </section><!-- End text with image section -->
+		
+		<div id="slider-container">
+  <div id="slider-scroller">
+    <div class="slider-item"><img src="https://via.placeholder.com/250x150/0000ff/fff?text=Image+1" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/200x100/ff0000/fff?text=Image+2" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/200x150/acff7f/000?text=Image+3" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/300x150/fff000/000?text=Image+4+is+long" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/350x250/6a0dad/000?text=Image+5+is+big" /></div>
+  </div>
 
 <!-- popular causes version 2 section -->
 <section class="bg-gray waypoint-tigger ">
@@ -534,7 +541,21 @@ organization will continue to do similar work in the future.</a>
 <?php include('footer.php');?>
 
 <!-- journal section -->
+<script>
+function slideSlider(){
+  $("#slider-scroller").css({"left":"0%","transition":"all 0s linear"});
+  $("#slider-scroller").css({"left": String(parseInt($("#slider-scroller").css("left")) - 500) + "px","transition":"all 10s linear"});
+  setTimeout(function(){moveSliderItem()}, 2635);
+}
 
+function moveSliderItem(){
+  $("#slider-scroller div").first().detach().appendTo($("#slider-scroller"));
+  slideSlider();
+}
+
+slideSlider();			
+			
+</script>
 <!-- footer section start -->
 
 		<script src="assets/js/jquery-3.2.1.min.js"></script>
