@@ -264,7 +264,7 @@ subject so that students can get exposure from all subjects.</p>
 	</div><!-- .container end -->
 </section><!-- End text with image section -->
 	
-	<div class="container">
+	
 		<div id="slider-container">
   <div id="slider-scroller">
     <div class="slider-item"><img src="https://via.placeholder.com/250x150/0000ff/fff?text=Image+1" /></div>
@@ -279,7 +279,7 @@ subject so that students can get exposure from all subjects.</p>
     
   </div>
 		</div>
-			</div>
+			
 
 <!-- popular causes version 2 section -->
 <section class="bg-gray waypoint-tigger ">
