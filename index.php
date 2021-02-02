@@ -41,6 +41,7 @@
 		<link rel='stylesheet alternate' title='color-5' type='text/css' href='assets/css/colors/color-5.css' >
 		<link rel='stylesheet alternate' title='color-6' type='text/css' href='assets/css/colors/color-6.css' >
         <link rel='stylesheet alternate' title='color-7' type='text/css' href='assets/css/colors/color-7.css' >
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <style>
             
                  input[type=number]::-webkit-inner-spin-button, 
