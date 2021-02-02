@@ -69,9 +69,11 @@ input[type=number]::-webkit-outer-spin-button {
 					
 					
 					<div class="xs-btn-wraper">
+<!--
 						<a href="contact.php" class="btn btn-outline-primary">
 							join us now
 						</a>
+-->
 						<a href="#ex1" rel="modal:open"  class="btn btn-outline-primary">
 							<span class="badge"><i class="fa fa-heart"></i></span> Donate Now
 						</a>
