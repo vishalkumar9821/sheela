@@ -85,11 +85,27 @@ ul, li {
     font-weight: 600!important;
 }
 
-
+@media only screen and (max-width: 600px){
 #slider-container {
   position: absolute;
   height: 150px;
-  width: 100%;
+  
+ 
+    max-width: 100%;
+
+  top: 12px;
+  left: 0;
+  right: 0;
+  bottom: 16px;
+  margin: auto;
+  overflow: hidden;
+  box-shadow: 0 0 15px #888;
+}	
+}
+#slider-container {
+  position: absolute;
+  height: 150px;
+  
  
     max-width: 100%;
 
