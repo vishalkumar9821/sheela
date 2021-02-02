@@ -263,7 +263,7 @@ subject so that students can get exposure from all subjects.</p>
 		</div><!-- .row end -->
 	</div><!-- .container end -->
 </section><!-- End text with image section -->
-		<section class="bg-gray waypoint-tigger ">
+	
 	<div class="container">
 		<div id="slider-container">
   <div id="slider-scroller">
