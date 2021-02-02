@@ -263,15 +263,23 @@ subject so that students can get exposure from all subjects.</p>
 		</div><!-- .row end -->
 	</div><!-- .container end -->
 </section><!-- End text with image section -->
-		
+		<section class="bg-gray waypoint-tigger ">
+	<div class="container">
 		<div id="slider-container">
   <div id="slider-scroller">
     <div class="slider-item"><img src="https://via.placeholder.com/250x150/0000ff/fff?text=Image+1" /></div>
     <div class="slider-item"><img src="https://via.placeholder.com/200x100/ff0000/fff?text=Image+2" /></div>
     <div class="slider-item"><img src="https://via.placeholder.com/200x150/acff7f/000?text=Image+3" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/300x150/fff000/000?text=Image+4+is+long" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/350x250/6a0dad/000?text=Image+5+is+big" /></div>
+	  <div class="slider-item"><img src="https://via.placeholder.com/250x150/0000ff/fff?text=Image+1" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/200x100/ff0000/fff?text=Image+2" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/200x150/acff7f/000?text=Image+3" /></div>
+	  <div class="slider-item"><img src="https://via.placeholder.com/250x150/0000ff/fff?text=Image+1" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/200x100/ff0000/fff?text=Image+2" /></div>
+    <div class="slider-item"><img src="https://via.placeholder.com/200x150/acff7f/000?text=Image+3" /></div>
+    
   </div>
+		</div>
+			</div>
 
 <!-- popular causes version 2 section -->
 <section class="bg-gray waypoint-tigger ">
