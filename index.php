@@ -282,7 +282,7 @@ subject so that students can get exposure from all subjects.</p>
 			
 
 <!-- popular causes version 2 section -->
-<section class="bg-gray waypoint-tigger " style="position: relative; top:100px;">
+<section class="bg-gray waypoint-tigger " style="position: relative; top:100px; margin-bottom: 100px;">
 	<div class="container">
 		<div class="xs-heading row xs-mb-60">
 			<div class="col-md-9 col-xl-9">
