@@ -43,6 +43,18 @@
         <link rel='stylesheet alternate' title='color-7' type='text/css' href='assets/css/colors/color-7.css' >
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <style>
+			.xs-single-portfolio-item .xs-portfolio-content {
+    position: absolute;
+    top: calc(50% + 40px);
+    left: 40%!important;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+    font-size: 3.57143em;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
             
                  input[type=number]::-webkit-inner-spin-button, 
 input[type=number]::-webkit-outer-spin-button { 

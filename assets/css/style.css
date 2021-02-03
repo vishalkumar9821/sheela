@@ -127,11 +127,14 @@ ul, li {
 }
 
 .slider-item {
-  width: 220px;
-  height: 110px;
-  display: inline-block;
-  margin: 20px;
-  position: relative;
+ width: 255px;
+    height: 182px;
+    display: inline-block;
+    margin-top: 65px;
+    padding: 10px;
+    /* margin: 74px; */
+    /* border: 1px solid black; */
+    position: relative;
 }
 
 .slider-item img {
