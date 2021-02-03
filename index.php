@@ -274,14 +274,70 @@ subject so that students can get exposure from all subjects.</p>
 				<img src="assets/images/archive-img-1.jpg" /><div class="xs-portfolio-content">
 						<span class="icon-plus-button"></span>
 					</div></a></div>
-    <div class="slider-item"><img src="assets/images/archive-img-3.jpg" /></div>
-    <div class="slider-item"><img src="assets/images/archive-img-2.jpg" /></div>
-	  <div class="slider-item"><img src="assets/images/slider/slider_5.jpg" /></div>
-    <div class="slider-item"><img src="assets/images/slider/slider_1.jpg" /></div>
-    <div class="slider-item"><img src="assets/images/slider/slider_2.jpg" /></div>
-	  <div class="slider-item"><img src="assets/images/portfolio/gallery_4.jpg" /></div>
-    <div class="slider-item"><img src="assets/images/portfolio/gallery_1.jpg" /></div>
-    <div class="slider-item"><img src="assets/images/portfolio/gallery_6.jpg"></div>
+	  
+	  <div class="slider-item">
+		<a href="assets/images/sheela01.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/archive-img-1.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  <div class="slider-item">
+		<a href="assets/images/portfolio/gallery_1.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/portfolio/gallery_1.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  <div class="slider-item">
+		<a href="assets/images/portfolio/gallery_4.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/portfolio/gallery_4.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  <div class="slider-item">
+		<a href="assets/images/slider/slider_2.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/slider/slider_2.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  <div class="slider-item">
+		<a href="assets/images/slider/slider_5.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/slider/slider_5.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  <div class="slider-item">
+		<a href="assets/images/archive-img-2.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/archive-img-2.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  <div class="slider-item">
+		<a href="assets/images/archive-img-3.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/archive-img-3.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  <div class="slider-item">
+		<a href="assets/images/portfolio/gallery_6.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/portfolio/gallery_6.jpg"><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
+	  
+
+
+	
+    
+    
+	
     
   </div>
 		</div>
