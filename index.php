@@ -268,14 +268,14 @@ subject so that students can get exposure from all subjects.</p>
 		<div id="slider-container">
   <div id="slider-scroller">
     <div class="slider-item"><img src="assets/images/archive-img-1.jpg" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/200x100/ff0000/fff?text=Image+2" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/200x150/acff7f/000?text=Image+3" /></div>
-	  <div class="slider-item"><img src="https://via.placeholder.com/250x150/0000ff/fff?text=Image+1" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/200x100/ff0000/fff?text=Image+2" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/200x150/acff7f/000?text=Image+3" /></div>
-	  <div class="slider-item"><img src="https://via.placeholder.com/250x150/0000ff/fff?text=Image+1" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/200x100/ff0000/fff?text=Image+2" /></div>
-    <div class="slider-item"><img src="https://via.placeholder.com/200x150/acff7f/000?text=Image+3" /></div>
+    <div class="slider-item"><img src="assets/images/archive-img-3.jpg" /></div>
+    <div class="slider-item"><img src="assets/images/archive-img-2.jpg" /></div>
+	  <div class="slider-item"><img src="assets/images/slider/slider_5.jpg" /></div>
+    <div class="slider-item"><img src="assets/images/slider/slider_1.jpg" /></div>
+    <div class="slider-item"><img src="assets/images/slider/slider_2.jpg" /></div>
+	  <div class="slider-item"><img src="assets/images/portfolio/gallery_4.jpg" /></div>
+    <div class="slider-item"><img src="assets/images/portfolio/gallery_1.jpg" /></div>
+    <div class="slider-item"><img src="assets/images/portfolio/gallery_6.jpg"></div>
     
   </div>
 		</div>

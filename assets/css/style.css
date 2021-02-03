@@ -138,10 +138,10 @@ ul, li {
       position: absolute;
     top: 50%;
     left: 39%;
-    transform: translate(0%, -50%);
-    /* max-width: 200px; */
+   
+      transform: translate(-50%, -50%);
     width: 300px;
-    /* max-height: 100px; */
+   
     height: 150px;
  
 }
