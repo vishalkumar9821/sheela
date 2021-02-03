@@ -295,10 +295,10 @@ subject so that students can get exposure from all subjects.</p>
 						<span class="icon-plus-button"></span>
 					</div></a></div>
 	  <div class="slider-item">
-		<a href="assets/images/portfolio/gallery_1.jpg" class="xs-single-portfolio-item xs-image-popup">
+		<a href="assets/images/sheela01.jpg" class="xs-single-portfolio-item xs-image-popup">
 					
 					
-				<img src="assets/images/portfolio/gallery_1.jpg" /><div class="xs-portfolio-content">
+				<img src="assets/images/sheela01.jpg" /><div class="xs-portfolio-content">
 						<span class="icon-plus-button"></span>
 					</div></a></div>
 	  <div class="slider-item">
