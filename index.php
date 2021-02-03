@@ -267,7 +267,13 @@ subject so that students can get exposure from all subjects.</p>
 	
 		<div id="slider-container">
   <div id="slider-scroller">
-    <div class="slider-item"><img src="assets/images/archive-img-1.jpg" /></div>
+    <div class="slider-item">
+		<a href="assets/images/sheela01.jpg" class="xs-single-portfolio-item xs-image-popup">
+					
+					
+				<img src="assets/images/archive-img-1.jpg" /><div class="xs-portfolio-content">
+						<span class="icon-plus-button"></span>
+					</div></a></div>
     <div class="slider-item"><img src="assets/images/archive-img-3.jpg" /></div>
     <div class="slider-item"><img src="assets/images/archive-img-2.jpg" /></div>
 	  <div class="slider-item"><img src="assets/images/slider/slider_5.jpg" /></div>

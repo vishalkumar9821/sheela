@@ -124,7 +124,7 @@
 			</div><!-- .xs-portfolio-grid-item END -->
 			
 			<div class="xs-portfolio-grid-item">
-				<a href="assets/images/portfolio/gallery_5.jpg" class="xs-single-portfolio-item xs-image-popup">
+				<a href="assets/images/sheela01.jpg" class="xs-single-portfolio-item xs-image-popup">
 					<img src="assets/images/sheela01.jpg" alt="">
 					<div class="xs-portfolio-content">
 						<span class="icon-plus-button"></span>
