@@ -135,12 +135,15 @@ ul, li {
 }
 
 .slider-item img {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  max-width: 200px;
-  max-height: 100px;
+      position: absolute;
+    top: 50%;
+    left: 39%;
+    transform: translate(0%, -50%);
+    /* max-width: 200px; */
+    width: 300px;
+    /* max-height: 100px; */
+    height: 150px;
+ 
 }
 
 .xs-heading .xs-title {
